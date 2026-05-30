@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <!-- Primary Colors - Hiyuki Red -->
+  <color name="primary_color">#C41E3A</color>
+  <color name="primary_light">#E8A8B8</color>
+  <color name="primary_dark">#8B0000</color>
+  
+  <!-- Background Colors -->
+  <color name="background_color">#FAFAF8</color>
+  <color name="background_light">#F5F5F5</color>
+  <color name="background_white">#FFFFFF</color>
+  
+  <!-- Text Colors -->
+  <color name="text_primary">#000000</color>
+  <color name="text_secondary">#666666</color>
+  <color name="text_white">#FFFFFF</color>
+  
+  <!-- Status Bar & System -->
+  <color name="status_bar_background">#C41E3A</color>
+  <color name="status_bar_text">#FFFFFF</color>
+  <color name="navigation_bar_background">#FAFAF8</color>
+  <color name="navigation_bar_icon">#C41E3A</color>
+</resources>
