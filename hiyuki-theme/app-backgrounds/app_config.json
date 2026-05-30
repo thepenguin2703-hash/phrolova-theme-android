@@ -1,0 +1,28 @@
+{
+  "app_backgrounds": {
+    "default": "#FAFAF8",
+    "accent": "#C41E3A",
+    "app_cards": {
+      "background": "#FFFFFF",
+      "shadow_color": "#E8A8B8",
+      "border_color": "#E0E0E0"
+    },
+    "gradients": [
+      {
+        "name": "hiyuki_main",
+        "start": "#FAFAF8",
+        "end": "#F5F5F5"
+      },
+      {
+        "name": "hiyuki_accent",
+        "start": "#C41E3A",
+        "end": "#8B0000"
+      },
+      {
+        "name": "hiyuki_light",
+        "start": "#FFFFFF",
+        "end": "#E8A8B8"
+      }
+    ]
+  }
+}

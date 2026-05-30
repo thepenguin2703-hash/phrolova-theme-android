@@ -1,0 +1,24 @@
+{
+  "game_turbo": {
+    "interface_color": "#C41E3A",
+    "background": "#000000",
+    "text_color": "#FFFFFF",
+    "accent_color": "#E8A8B8",
+    "performance_indicators": {
+      "cpu": true,
+      "ram": true,
+      "temperature": true,
+      "fps_counter": true,
+      "network_speed": true
+    },
+    "animations": {
+      "smooth": true,
+      "duration": 300
+    },
+    "layout": {
+      "position": "top_right",
+      "size": "compact",
+      "transparency": 0.9
+    }
+  }
+}
