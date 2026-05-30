@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <meta>
+        <name>Hiyuki</name>
+        <author>thepenguin2703-hash</author>
+        <version>1.0</version>
+        <description>Hiyuki Theme for HyperOS 3.0.6</description>
+    </meta>
+    <colors>
+        <primary>#C41E3A</primary>
+        <primary_light>#E8A8B8</primary_light>
+        <primary_dark>#8B0000</primary_dark>
+        <background>#FAFAF8</background>
+        <background_light>#F5F5F5</background_light>
+        <text_primary>#000000</text_primary>
+        <text_secondary>#666666</text_secondary>
+        <accent>#C41E3A</accent>
+    </colors>
+    <ui>
+        <status_bar_background>#C41E3A</status_bar_background>
+        <status_bar_text>#FFFFFF</status_bar_text>
+        <navigation_bar_background>#FAFAF8</navigation_bar_background>
+        <navigation_bar_icon>#C41E3A</navigation_bar_icon>
+        <control_center_background>#F5F5F5</control_center_background>
+        <control_center_icon>#C41E3A</control_center_icon>
+        <settings_header_background>#C41E3A</settings_header_background>
+        <settings_header_text>#FFFFFF</settings_header_text>
+    </ui>
+</theme>

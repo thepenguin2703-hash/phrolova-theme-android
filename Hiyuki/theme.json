@@ -1,0 +1,91 @@
+{
+  "name": "Hiyuki",
+  "author": "thepenguin2703-hash",
+  "version": "1.0",
+  "description": "Hiyuki Theme - Wuthering Waves Character Theme for HyperOS 3.0.6",
+  "colors": {
+    "primary": "#C41E3A",
+    "primary_light": "#E8A8B8",
+    "primary_dark": "#8B0000",
+    "background": "#FAFAF8",
+    "background_light": "#F5F5F5",
+    "background_white": "#FFFFFF",
+    "text_primary": "#000000",
+    "text_secondary": "#666666",
+    "text_white": "#FFFFFF"
+  },
+  "ui_elements": {
+    "status_bar": {
+      "background": "#C41E3A",
+      "text": "#FFFFFF",
+      "icon": "#FFFFFF"
+    },
+    "navigation_bar": {
+      "background": "#FAFAF8",
+      "icon": "#C41E3A",
+      "text": "#000000"
+    },
+    "control_center": {
+      "background": "#F5F5F5",
+      "icon": "#C41E3A",
+      "toggle_on": "#C41E3A",
+      "toggle_off": "#CCCCCC",
+      "divider": "#E8A8B8"
+    },
+    "lock_screen": {
+      "background": "#000000",
+      "text": "#FFFFFF",
+      "accent": "#C41E3A",
+      "clock": "#FFFFFF",
+      "date": "#E8A8B8"
+    },
+    "home_screen": {
+      "background": "#FAFAF8",
+      "icon_tint": "#C41E3A",
+      "widget_bg": "#FFFFFF",
+      "folder_bg": "#F5F5F5"
+    },
+    "settings": {
+      "header_background": "#C41E3A",
+      "header_text": "#FFFFFF",
+      "background": "#FAFAF8",
+      "item_background": "#FFFFFF",
+      "text_primary": "#000000",
+      "text_secondary": "#666666",
+      "toggle_on": "#C41E3A",
+      "toggle_off": "#CCCCCC",
+      "divider": "#E0E0E0"
+    },
+    "game_turbo": {
+      "background": "#000000",
+      "accent": "#C41E3A",
+      "text": "#FFFFFF",
+      "transparency": 0.9
+    },
+    "battery": {
+      "charging": "#C41E3A",
+      "critical": "#FF0000",
+      "low": "#FFA500",
+      "medium": "#FFFF00",
+      "full": "#00AA00"
+    },
+    "fingerprint": {
+      "scan": "#C41E3A",
+      "success": "#C41E3A",
+      "failed": "#FF0000"
+    }
+  },
+  "features": {
+    "supports_wallpaper": true,
+    "supports_icons": true,
+    "supports_widgets": true,
+    "supports_fonts": false,
+    "supports_sounds": false
+  },
+  "compatibility": {
+    "os": "HyperOS 3.0.6",
+    "devices": ["POCO"],
+    "min_api": 34,
+    "max_api": 35
+  }
+}
