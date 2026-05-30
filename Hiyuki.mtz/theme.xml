@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+    <title>Hiyuki Theme</title>
+    <description>Hiyuki from Wuthering Waves theme for HyperOS 3</description>
+    <author>thepenguin2703-hash</author>
+    <version>1.0.0</version>
+    <preview>preview.png</preview>
+    <wallpaper>lockscreen/hiyuki_lockscreen.png</wallpaper>
+    <lockWallpaper>lockscreen/hiyuki_lockscreen.png</lockWallpaper>
+    <type>theme</type>
+    <colors>
+        <primary>#C41E3A</primary>
+        <accent>#E8A8B8</accent>
+        <background>#F5F5F5</background>
+    </colors>
+</theme>

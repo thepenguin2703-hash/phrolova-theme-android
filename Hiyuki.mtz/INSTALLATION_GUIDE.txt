@@ -1,0 +1,184 @@
+╔═══════════════════════════════════════════════════════════════╗
+║           🎴 HIYUKI THEME - MTZ FORMAT GUIDE 🎴                ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📝 FILE STRUCTURE:
+─────────────────
+
+Hiyuki.mtz
+├── theme.xml              ← Metadata XML (required)
+├── colors.xml             ← Color definitions
+├── drawables.xml          ← Icon references
+├── metadata.json          ← Theme configuration
+├── manifest.json          ← Package info
+├── README_MTZ.md
+│
+├── 📁 lockscreen/
+│   ├── hiyuki_lockscreen.png
+│   └── lock_config.json
+│
+├── 📁 homescreen/
+│   ├── hiyuki_homescreen.png
+│   └── homescreen_config.json
+│
+├── 📁 controlcenter/
+│   ├── ic_wifi.png
+│   ├── ic_bluetooth.png
+│   ├── ic_flashlight.png
+│   └── ic_screen.png
+│
+├── 📁 statusbar/
+│   ├── ic_signal.png
+│   └── ic_battery.png
+│
+├── 📁 navbar/
+│   ├── ic_back.png
+│   ├── ic_home.png
+│   └── ic_recent.png
+│
+├── 📁 battery/
+│   └── charging animation frames (PNG)
+│
+├── 📁 fingerprint/
+│   ├── scan animation frames
+│   ├── success animation
+│   └── failed animation
+│
+└── preview.png           ← Theme preview image
+
+
+🔧 INSTALLATION STEPS:
+──────────────────────
+
+1. CONVERT TO MTZ:
+   ✓ Compress Hiyuki folder with 7z or WinRAR
+   ✓ Change extension to .mtz
+   ✓ File name: Hiyuki.mtz
+
+2. TRANSFER TO PHONE:
+   ✓ Connect phone via USB
+   ✓ Copy Hiyuki.mtz to: /sdcard/Themes/
+   
+   OR
+   
+   ✓ Use file manager on phone
+   ✓ Navigate to /sdcard/
+   ✓ Create "Themes" folder if not exists
+   ✓ Paste Hiyuki.mtz
+
+3. APPLY THEME:
+   ✓ Open "Chủ đề" (Themes) app
+   ✓ Go to "Cục bộ" (Local) section
+   ✓ Find "Hiyuki Theme"
+   ✓ Tap "Áp dụng" (Apply)
+   ✓ Confirm and wait for installation
+
+4. REBOOT (if needed):
+   ✓ Long press power button
+   ✓ Select "Restart"
+   ✓ Wait for system to reboot
+   ✓ Theme will be active
+
+
+⚙️ SYSTEM REQUIREMENTS:
+─────────────────────
+✓ Device: POCO
+✓ ROM: HyperOS 3.0.6 (International)
+✓ Android: 14+
+✓ Storage: 50MB free space
+✓ RAM: 2GB minimum
+
+
+🎨 THEME FEATURES:
+──────────────────
+✓ Control Center - Red themed quick settings
+✓ Lock Screen - Hiyuki wallpaper with widgets
+✓ Home Screen - Custom wallpaper and widgets
+✓ Battery - Animated charging indicator
+✓ Fingerprint - Scan animations with red effects
+✓ Status Bar - Custom status bar icons
+✓ Navigation Bar - Custom nav bar styling
+✓ Settings - Red header and themed UI
+✓ Game Turbo - Performance monitoring interface
+✓ App Backgrounds - Consistent app styling
+
+
+📊 COLOR PALETTE:
+────────────────
+Primary Red:    #C41E3A (Hiyuki signature)
+Light Red:      #E8A8B8 (Accents)
+White:          #F5F5F5 (Background)
+Dark Red:       #8B0000 (Shadows)
+Off-white:      #FAFAF8 (Secondary bg)
+Black:          #000000 (Status bar)
+
+
+❓ TROUBLESHOOTING:
+─────────────────
+
+❌ Theme not showing in app:
+   ✓ Clear Themes app cache
+   ✓ Reboot device
+   ✓ Check file location: /sdcard/Themes/
+   ✓ Try refreshing the app
+
+❌ Theme won't apply:
+   ✓ Ensure file is .mtz (not .zip)
+   ✓ Check filename: Hiyuki.mtz
+   ✓ Verify all required files exist
+   ✓ Try different theme first, then apply Hiyuki
+
+❌ Missing elements:
+   ✓ Check if all PNG files are included
+   ✓ Verify XML syntax is correct
+   ✓ Reinstall theme
+   ✓ Clear app data and reboot
+
+❌ Animation not working:
+   ✓ Enable animations in Settings > Display
+   ✓ Check animation frame files
+   ✓ Reboot device
+
+
+📱 TESTED COMPATIBILITY:
+────────────────────────
+✓ POCO F5 Pro - HyperOS 3.0.6
+✓ POCO X6 - HyperOS 3.0.6
+✓ POCO F6 - HyperOS 3.0.6
+✓ Other POCO devices (should work)
+
+
+🔗 USEFUL PATHS:
+────────────────
+Theme folder:       /sdcard/Themes/
+Backup location:    /sdcard/Themes/backup/
+System themes:      /system/media/theme/
+User themes:        /data/system/themes/
+
+
+💡 TIPS:
+────────
+• Backup default theme before applying
+• Keep a copy of Hiyuki.mtz for future reinstall
+• Some system apps may require cache clear
+• Reboot after applying for best results
+• Check file permissions (if using ADB)
+
+
+📞 SUPPORT:
+───────────
+Issues? Check GitHub repository:
+https://github.com/thepenguin2703-hash/phrolova-theme-android
+
+
+🙏 CREDITS:
+───────────
+• Character: Hiyuki (Wuthering Waves by Kuro Games)
+• Developer: @thepenguin2703-hash
+• Platform: HyperOS 3 by Xiaomi
+
+
+═══════════════════════════════════════════════════════════════════
+Made with ❤️ for Hiyuki fans on POCO devices
+Version 1.0.0 - May 2026
+═══════════════════════════════════════════════════════════════════

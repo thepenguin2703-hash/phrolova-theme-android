@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#C41E3A</color>
+    <color name="accent_color">#E8A8B8</color>
+    <color name="background_color">#F5F5F5</color>
+    <color name="text_color_primary">#000000</color>
+    <color name="text_color_secondary">#666666</color>
+    
+    <!-- Control Center -->
+    <color name="control_center_bg">#F5F5F5</color>
+    <color name="control_center_icon">#C41E3A</color>
+    
+    <!-- Status Bar -->
+    <color name="status_bar_bg">#000000</color>
+    <color name="status_bar_text">#FFFFFF</color>
+    
+    <!-- Navigation Bar -->
+    <color name="nav_bar_bg">#FAFAF8</color>
+    <color name="nav_bar_icon">#C41E3A</color>
+    
+    <!-- Settings -->
+    <color name="settings_header">#C41E3A</color>
+    <color name="settings_bg">#FAFAF8</color>
+</resources>
